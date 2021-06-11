@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AddToCart</string>
+    <string name="abs">Name to be printed on cake</string>
+    <string name="abs2">Occasion</string>
+    <string name="abs3">Made with Love!!!</string>
+</resources>
